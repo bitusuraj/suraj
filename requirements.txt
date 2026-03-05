@@ -1,0 +1,14 @@
+# Core AI / LLM — Google Gemini
+langchain-google-genai>=2.0.0
+langchain-core>=0.2.0
+langchain>=0.2.0
+
+# Web Framework
+streamlit>=1.35.0
+
+# Data
+pandas>=2.2.0
+sqlalchemy>=2.0.0
+
+# Utilities
+python-dotenv>=1.0.0

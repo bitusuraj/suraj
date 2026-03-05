@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables — NEVER commit your real .env
+.env
+
+# SQLite database — auto-generated at runtime
+data/sales.db
+
+# Streamlit cache
+.streamlit/
+
+# IDE / OS
+.idea/
+.vscode/
+*.DS_Store
+Thumbs.db
